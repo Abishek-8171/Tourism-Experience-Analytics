@@ -1,4 +1,4 @@
-# Tourism-Experience-Analytics
+![Screenshot (68)](https://github.com/user-attachments/assets/94d17032-cc71-4511-b5c6-e40a76d44dd2)# Tourism-Experience-Analytics
 This project focuses on enhancing the tourism experience by analyzing user preferences, travel patterns, and attraction features.
 It involves building machine learning models for regression and classification, and developing a recommendation system to provide personalized travel suggestions.
 # Libraries Used
@@ -17,7 +17,13 @@ Handled missing values and encoded categorical variables.
 -Logistic Regression\
 -K-Nearest Neighbors (KNN)\
 -Decision Tree Classifier\
--Random Forest Classifier\
+-Random Forest Classifier
 # 💡 Recommendation System
 -Collaborative Filtering using SVD algorithm (Surprise library).\
--Content-Based Filtering using Cosine Similarity (sklearn).\
+-Content-Based Filtering using Cosine Similarity (sklearn).
+# Streamlit Application
+## Developed an interactive Streamlit app to:
+-Display EDA insights.\
+- Show recommendation results.
+![Screenshot (68)](https://github.com/user-attachments/assets/564846e0-850b-4485-ba41-d55e84fcef01)
+
