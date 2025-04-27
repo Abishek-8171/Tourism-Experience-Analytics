@@ -24,6 +24,7 @@ Handled missing values and encoded categorical variables.
 # Streamlit Application
 ## Developed an interactive Streamlit app to:
 -Display EDA insights.\
-- Show recommendation results.
+-Show recommendation results.
+
 ![Screenshot (68)](https://github.com/user-attachments/assets/564846e0-850b-4485-ba41-d55e84fcef01)
 
