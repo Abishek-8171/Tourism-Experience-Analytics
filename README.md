@@ -6,18 +6,18 @@ It involves building machine learning models for regression and classification, 
 # 📥 Data Collection
 Collected data from multiple Excel files, including cities, countries, users, transactions, items, etc.
 # Data Preprocessing
-Cleaned and merged the datasets.
+Cleaned and merged the datasets.\
 Handled missing values and encoded categorical variables.
-#🤖 Model Building
+# 🤖 Model Building
 ## Regression Models:
--LGBM Regressor
--Linear Regression
+-LGBM Regressor\
+-Linear Regression\
 -Random Forest Regressor
 ## Classification Models:
--Logistic Regression
--K-Nearest Neighbors (KNN)
--Decision Tree Classifier
--Random Forest Classifier
+-Logistic Regression\
+-K-Nearest Neighbors (KNN)\
+-Decision Tree Classifier\
+-Random Forest Classifier\
 # 💡 Recommendation System
--Collaborative Filtering using SVD algorithm (Surprise library).
--Content-Based Filtering using Cosine Similarity (sklearn).
+-Collaborative Filtering using SVD algorithm (Surprise library).\
+-Content-Based Filtering using Cosine Similarity (sklearn).\
