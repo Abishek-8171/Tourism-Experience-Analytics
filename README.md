@@ -1,4 +1,4 @@
-![Screenshot (68)](https://github.com/user-attachments/assets/94d17032-cc71-4511-b5c6-e40a76d44dd2)# Tourism-Experience-Analytics
+# Tourism-Experience-Analytics
 This project focuses on enhancing the tourism experience by analyzing user preferences, travel patterns, and attraction features.
 It involves building machine learning models for regression and classification, and developing a recommendation system to provide personalized travel suggestions.
 # Libraries Used
